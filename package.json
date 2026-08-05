@@ -1,0 +1,26 @@
+{
+  "name": "testreact",
+  "version": "1.0.0",
+  "description": "react study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slm18/testReact.git"
+  },
+  "author": "Slava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slm18/testReact/issues"
+  },
+  "homepage": "https://github.com/Slm18/testReact#readme",
+  "dependencies": {
+    "jquery": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack": "4.47.0",
+    "webpack-cli": "^7.2.2"
+  }
+}
